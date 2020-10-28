@@ -1,0 +1,96 @@
+@media (max-width: 960px) {
+    .container {
+      width: 700px;
+    }
+  }
+  @media (max-width: 720px) {
+    .container {
+      width: 500px;
+    }
+  }
+  @media (max-width: 540px) {
+    .container {
+      width: 300px;
+    }
+  }
+  
+
+h1 {
+    color: #4E5779;
+    font-size: 35px;
+    font-weight: 900;
+    font-family: 'Grandstander', cursive, sans-serif;
+}
+
+h2 {
+    color: #4E5779;
+    font-size: 25px;
+    font-weight: lighter;
+    font-weight: 500;
+}
+
+body {
+    background-color: #44A1A0;
+    color: #575F7D;
+    font-family: 'Grandstander', cursive, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    color: #6B72E1;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.container {
+    width: 700px;
+    margin: 40px auto;
+}
+
+#introduction p {
+    margin-bottom: 40px;
+}
+
+.card-white {
+    background-color: white;
+    padding: 35px;
+    box-shadow: 14px 15px 5px -1px rgba(0,0,0,0.49);;
+    border-radius: 8px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.btn-purple {
+    background-color: #6B72E1;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 12px;
+}
+
+.btn-purple:hover {
+    background-color: #d7580bcc;
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px;
+}
+
+.list-inline i {
+    font-size: 30px;
+}
+
+.list-inline i:hover {
+    color: #d7580bcc;
+}
