@@ -30,6 +30,7 @@ h2 {
 
 body {
     background-color: #44A1A0;
+    background-image: url("https://images.assetsdelivery.com/compings_v2/losw/losw1902/losw190200155.jpg");
     color: #575F7D;
     font-family: 'Grandstander', cursive, sans-serif;
     font-size: 15px;
@@ -73,7 +74,7 @@ a {
 }
 
 .btn-purple:hover {
-    background-color: #d7580bcc;
+    background-color: #da4879cc;
 }
 
 .list-inline {
@@ -91,5 +92,5 @@ a {
 }
 
 .list-inline i:hover {
-    color: #d7580bcc;
+    color: #da4879cc;
 }
